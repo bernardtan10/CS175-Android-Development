@@ -1,0 +1,8 @@
+edu/sjsu/android/accelerometer/Particle.java
+ edu.sjsu.android.accelerometer.Particle
+edu/sjsu/android/accelerometer/BuildConfig.java
+ edu.sjsu.android.accelerometer.BuildConfig
+edu/sjsu/android/accelerometer/MainActivity.java
+ edu.sjsu.android.accelerometer.MainActivity
+edu/sjsu/android/accelerometer/SimulationView.java
+ edu.sjsu.android.accelerometer.SimulationView
